@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Motivate All</string>
+    <string name="content_desc">a logo</string>
+    <string name="text">Say Hello</string>
+    <string name="name">Name</string>
+    <string name="hint">Write your Name</string>
+    <string name="button">Hit Me</string>
+</resources>
